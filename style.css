@@ -1,0 +1,34 @@
+body {
+  font-family: georgia;
+  background-color: #451b04;
+  color: #81b14f;
+  border-style: inset;
+  border-radius: 5px;
+  padding: 15px;
+  text-align: center;
+
+}
+
+div {
+
+}
+
+#header {
+  position: fixed;
+  color: #81b14f;
+  background-color: #451b04;
+  width: 97%;
+  border-style: inset;
+  margin: auto;
+}
+
+#rbody {
+  margin-top: 12%;
+
+}
+
+hr {
+  border-style: inset;
+  border-color: #81b14f;
+  width: 80%;
+}
